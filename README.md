@@ -43,3 +43,45 @@ Passionate **Cyber Security Researcher** focused on identifying vulnerabilities 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wasishah-Hacker&color=green&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+
+---
+
+### 🚀 Advanced Cybersecurity Arsenal (World Top Skills)
+
+#### 🛡️ Penetration Testing & Infrastructure
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white)
+
+#### 📱 Mobile Security & Reverse Engineering
+![Android Security](https://img.shields.io/badge/Android_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF1744?style=for-the-badge&logo=ghidra&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-2D3436?style=for-the-badge&logo=frida&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Mobile-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+#### 🔐 Advanced Hacking Languages
+![Go](https://img.shields.io/badge/Go_Exploits-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++_Malware_Dev-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_Security-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+### 📊 Matrix Surveillance (Live Hack Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wasishah-Hacker&show_icons=true&theme=matrix&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wasishah-Hacker&theme=matrix&hide_border=false" width="48%" />
+</p>
+
+---
+
+### 💬 System Connectivity
+<p align="left">
+<a href="https://t.me/boylish" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.instagram.com/the_cyber_ghost_0" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wasishah-Hacker&color=00ff00&style=flat-square&label=TARGET_ACCESS_COUNT" />
+</p>
